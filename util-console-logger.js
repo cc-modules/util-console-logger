@@ -26,7 +26,7 @@ export default class ConsoleLogger {
    */
   constructor(prefix) {
     this.Levels = LogLevels;
-    this.level = LogLevel.LOG;
+    this.level = LogLevel.VERBOSE;
     this.prefix = '';
     this.enabled = true;
     this.debugColor = colorize('#cccccc', 12);
