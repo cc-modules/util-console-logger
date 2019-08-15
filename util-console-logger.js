@@ -148,7 +148,7 @@ export default class ConsoleLogger {
   }
 }
 ConsoleLogger.instances = [];
-ConsoleLogger.level = LogLevel.LOG;
+ConsoleLogger.level = LogLevel.VERBOSE;
 ConsoleLogger.Levels = LogLevels;
 ConsoleLogger.noColor = false;
 
