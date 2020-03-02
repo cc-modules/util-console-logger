@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "description": "A simple console logger",
   "main": "util-console-logger.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@code.vipkid.com.cn:3590/edu/cc-game/infra/util-console-logger.git"
-  },
   "author": "wangweihua@vipkid.com.cn",
   "license": "ISC"
 }
